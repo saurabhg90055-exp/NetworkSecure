@@ -1,0 +1,3 @@
+dot-env
+pandas
+numpy
